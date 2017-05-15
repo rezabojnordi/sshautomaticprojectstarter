@@ -1,7 +1,8 @@
 # sshautomaticprojectstarter
+
 this utility gives you the following options: 
 
-1. sends the your zipped project to the server 
+1. sends the your zipped project to the server
 
 2.unzips and runs your project 
 
