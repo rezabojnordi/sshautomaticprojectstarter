@@ -2,7 +2,9 @@
 
 # this utility gives you the following options: 
 
-[Imgur](http://i.imgur.com/9sEgI1B.png)
+[pic](http://i.imgur.com/9sEgI1B.png)
+
+http://i.imgur.com/9sEgI1B.png
 
 1.sends the your zipped project to the server
 
