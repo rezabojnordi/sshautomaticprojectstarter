@@ -1,0 +1,53 @@
+{
+  "name": "sshautomaticprojectstarter",
+  "version": "1.0.0",
+  "description": "this utility gives you the following options: 1. sends the your zipped project to the server 2.unzips and runs your project 3.shows mongo's fail logs 4.shows linux's message log 5.shows linux's security logs 6.shows your server requests to mongo database 7.flush your redis database",
+  "main": "config.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-watch": "^0.5.4",
+    "ping": "^0.2.2",
+    "pm2": "^2.4.6",
+    "readline-sync": "^1.4.7",
+    "scp2": "^0.5.0",
+    "simple-ssh": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezabojnordi/sshautomaticprojectstarter.git"
+  },
+  "keywords": [
+    "ssh",
+    "linux",
+    "scp",
+    "automatic",
+    "run",
+    "server",
+    "automatic",
+    "run",
+    "server",
+    "log",
+    "mongo",
+    "log",
+    "failes",
+    "mongo",
+    "flush",
+    "redise",
+    "log",
+    "messages",
+    "log",
+    "security",
+    "centos",
+    "redhat"
+  ],
+  "author": "reza bojnordi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezabojnordi/sshautomaticprojectstarter/issues"
+  },
+  "homepage": "https://github.com/rezabojnordi/sshautomaticprojectstarter#readme"
+}
