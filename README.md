@@ -2,7 +2,6 @@
 
 # this utility gives you the following options: 
 
-http://imgur.com/a/WPFFe
 
 
 1.sends the your zipped project to the server
