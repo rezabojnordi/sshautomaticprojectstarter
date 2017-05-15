@@ -1,8 +1,8 @@
-# sshautomaticprojectstarter
+## sshautomaticprojectstarter
 
-this utility gives you the following options: 
+# this utility gives you the following options: 
 
-1. sends the your zipped project to the server
+1.sends the your zipped project to the server
 
 2.unzips and runs your project 
 
@@ -17,7 +17,8 @@ this utility gives you the following options:
 7.flush your redis database
 
 
-#how to use
+## how to use
+
 Specify your IP, port, username and password of your ssh connection in config.js. Do the same for scp connection in scp.js also you have to specify the directories of you project on the server.
 
 
