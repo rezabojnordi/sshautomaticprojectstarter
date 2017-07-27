@@ -187,7 +187,7 @@ function cleanReDiSe()
  * checking up server
  */
 function serverUpValidation (number) {
-  ping.promise.probe('192.168.1.68')
+  ping.promise.probe('192.168.1.20')
     .then(function (res) {
       // console.log('number', number);
       //console.log('res', res.alive);
