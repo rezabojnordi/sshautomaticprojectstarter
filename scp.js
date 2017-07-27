@@ -12,7 +12,7 @@ var client = require('scp2'),
 //*****************************************************************
 //******************************config***********************************************
 var scp = {
-  host: '192.168.1.68:2270', //ip server and port
+  host: '192.168.1.20:22', //ip server and port
   user: 'root', //server user
   pass: '', // server password
   pathProject: 'pm2 start /home/reza/change/file.js', // specifies the project root folder
